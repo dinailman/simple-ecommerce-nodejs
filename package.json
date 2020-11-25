@@ -1,0 +1,30 @@
+{
+  "name": "simple-ecommerce-nodejs",
+  "version": "1.0.0",
+  "description": "simple ecommerce",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinailman/simple-ecommerce-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinailman/simple-ecommerce-nodejs/issues"
+  },
+  "homepage": "https://github.com/dinailman/simple-ecommerce-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
