@@ -12,4 +12,4 @@ One user only have one cart.
   depedencies that installed are Sequelize, Express, dotenv, ejs, body-parser, nodemon and mysql2
 4. ```npm start``` to run the app,
   this script can be changed at ***scripts in the package.json***.
-5.This app will run on ***http://localhost:3000***, copy that link and paste on browser url
+  5.This app will run on ***http://localhost:3000***, copy that link and paste on browser url
