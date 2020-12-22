@@ -11,5 +11,5 @@ One user only have one cart.
 3. Clone the git project
 4. ```npm install``` to install package,depedencies that installed are Sequelize, Express, dotenv, ejs, body-parser, nodemon and mysql2
 5. Set environtment first, rename the ".env.example" into ".env" and change DB_DATABASE, DB_USERNAME and DB_PASSWORD
-6. ```npm start``` to run the app, this script can be changed at ***scripts in the package.json***.                                                    
+6. ```npm start``` to run the app, this script can be changed at ***scripts in the package.json***.
 7.This app will run on ***http://localhost:3000***, copy that link and paste on browser url
